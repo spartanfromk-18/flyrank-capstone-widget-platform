@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+ 
 # FlyRank Capstone: Embeddable Widget & Lead-Capture Platform
 
 A production-grade, multi-tenant widget platform that lets customers create embeddable widgets (`<script>` tag) and securely capture visitor submissions from untrusted external origins—fully validated, spam-protected, geo-enriched, and dashboarded[cite: 1, 3, 4, 5].
